@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 import java.util.Random;
 import java.util.Scanner;
 
 class HeadsorTailsWon{
+=======
+
+import java.util.Random;
+import java.util.Scanner;
+
+class HeadsorTailsUser{
+>>>>>>> user_name
     public static void main(String[] arg){
 	int res,h=0,t=0;
 	String name;
